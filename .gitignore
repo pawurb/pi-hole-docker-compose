@@ -1,3 +1,4 @@
 .env
 etc-pihole/
 etc-dnsmasq.d/
+.password.txt
